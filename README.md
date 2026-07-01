@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
