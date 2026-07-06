@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
