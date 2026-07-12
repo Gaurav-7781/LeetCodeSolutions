@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1528-shuffle-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
