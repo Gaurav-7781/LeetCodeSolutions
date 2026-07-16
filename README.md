@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0709-to-lower-case) |
+| [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 ## Counting Sort
