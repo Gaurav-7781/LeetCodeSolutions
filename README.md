@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1528-shuffle-string) |
+| [1748-sum-of-unique-elements](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -82,8 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1748-sum-of-unique-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1051-height-checker) |
+| [1748-sum-of-unique-elements](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
