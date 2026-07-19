@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
