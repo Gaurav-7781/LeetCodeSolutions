@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3861-minimum-capacity-box](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3861-minimum-capacity-box) |
 ## Greedy
 |  |
 | ------- |
