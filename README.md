@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3861-minimum-capacity-box](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3861-minimum-capacity-box) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
