@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
