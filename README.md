@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
