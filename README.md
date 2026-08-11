@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2485-find-the-pivot-integer) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
