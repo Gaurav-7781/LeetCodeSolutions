@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
