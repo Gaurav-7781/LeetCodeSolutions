@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
