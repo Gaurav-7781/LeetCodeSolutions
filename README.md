@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2485-find-the-pivot-integer) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
