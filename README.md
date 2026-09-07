@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
