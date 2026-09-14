@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
