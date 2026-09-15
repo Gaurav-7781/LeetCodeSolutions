@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1748-sum-of-unique-elements) |
+| [2540-minimum-common-value](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
