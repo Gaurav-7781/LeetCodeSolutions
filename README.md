@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3701-compute-alternating-sum](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3861-minimum-capacity-box](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3701-compute-alternating-sum) |
 | [3959-check-good-integer](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3959-check-good-integer) |
 ## Combinatorics
 |  |
