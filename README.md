@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3668-restore-finishing-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3861-minimum-capacity-box](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3861-minimum-capacity-box) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3668-restore-finishing-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting Sort
 |  |
