@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
