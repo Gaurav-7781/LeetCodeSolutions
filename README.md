@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0709-to-lower-case) |
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -285,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
