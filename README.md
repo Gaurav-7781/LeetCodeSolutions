@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0075-sort-colors) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
