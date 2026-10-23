@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0844-backspace-string-compare](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
