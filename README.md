@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3099-harshad-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
