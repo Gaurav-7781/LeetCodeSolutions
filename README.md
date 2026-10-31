@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2427-number-of-common-factors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2652-sum-multiples) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2427-number-of-common-factors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2427-number-of-common-factors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
