@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
