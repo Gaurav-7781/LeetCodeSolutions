@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
