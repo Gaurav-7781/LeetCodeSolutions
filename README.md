@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
