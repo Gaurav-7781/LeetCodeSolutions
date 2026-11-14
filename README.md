@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2235-add-two-integers](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/2485-find-the-pivot-integer) |
