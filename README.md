@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Gaurav-7781/LeetCodeSolutions/tree/master/0283-move-zeroes) |
